@@ -3,7 +3,6 @@
 # Hi, its Harpreet!
 <h4><i>IT enthusiast | Comptia A+ (Valid) </i></h4>
 
-<a href="www.linkedin.com/in/harpreet-kaur108"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
 I am self motivated IT enthusiast,with comptia A+ certification I have learnt all the fundamentals of the IT and how to troubleshoot common hardware and software issues.
