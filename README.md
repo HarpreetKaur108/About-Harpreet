@@ -22,9 +22,9 @@ I am self motivated IT enthusiast,with comptia A+ certification I have learnt al
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
-## Projects
+[## Projects
 - Detection Lab
-- SOC Automation Project
+- SOC Automation Project](url)
 
 
 ## Education
