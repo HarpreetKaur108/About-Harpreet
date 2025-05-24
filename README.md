@@ -12,13 +12,9 @@ I am self motivated IT enthusiast,with comptia A+ certification I have learnt al
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/preet801/ELK-STACK.git">Elastic Search Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Security Automation with Shuffle SOAR</a>|
-| Honeypot Implementation and analysis          | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
-| Case Management with TheHive                  | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Case Management with The Hive</a>|
-| Security Automation with Shuffle LIMACHARLIE  | <a href="https://github.com/preet801/SOAR.git">SOAR with LimaCharlie and Tines</a>|
-| Active Directory Project                         | <a href="https://github.com/preet801/Active-Directory-Project.git">Active Directory Project </a>|
-
+| Microsoft 365                                 | <a href="https://github.com/preet801/ELK-STACK.git">Elastic Search Lab</a>|
+| ServiceNow                                    | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Security Automation with Shuffle SOAR</a>|
+| Networking Fundamentals                       | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
 
 
 ## Tools
