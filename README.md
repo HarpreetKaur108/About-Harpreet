@@ -12,10 +12,11 @@ I am self motivated IT enthusiast,with comptia A+ certification I have learnt al
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Microsoft 365                                 | <a href="https://github.com/preet801/ELK-STACK.git">Elastic Search Lab</a>|
-| ServiceNow                                    | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Security Automation with Shuffle SOAR</a>|
-| Networking Fundamentals                       | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
-| Active Directory                              | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
+| Microsoft 365                                 | <a href="https://github.com/preet801/ELK-STACK.git">Microsoft 365</a>|
+| ServiceNow                                    | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Service Now</a>|
+| Networking Fundamentals                       | <a href="https://github.com/preet801/TPOT-LAB.git">Networking Fundamentals /a>|
+| Active Directory                              | <a href="https://github.com/preet801/TPOT-LAB.git">Active Directory </a>|
+| SQL Basics                                    | <a href="https://github.com/preet801/TPOT-LAB.git">SQL Basics</a>|
 
 
 ## Certifications
