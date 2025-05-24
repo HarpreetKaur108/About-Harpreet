@@ -15,6 +15,7 @@ I am self motivated IT enthusiast,with comptia A+ certification I have learnt al
 | Microsoft 365                                 | <a href="https://github.com/preet801/ELK-STACK.git">Elastic Search Lab</a>|
 | ServiceNow                                    | <a href="https://github.com/preet801/SOC-AUTOMATION-PROJECT.git">Security Automation with Shuffle SOAR</a>|
 | Networking Fundamentals                       | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
+| Active Directory                              | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
 
 
 ## Certifications
