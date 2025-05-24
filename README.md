@@ -1,13 +1,12 @@
 # About-Harpreet
 
 # Hi, its Harpreet!
-<h4><i>Cybersecurity | Programmer | Comptia A+ (Valid)| Comptia Security+ (Expired 2022) | Comptia Linux+(Expired 2023)</i></h4>
+<h4><i>IT enthusiast | Comptia A+ (Valid) </i></h4>
 
 <a href="www.linkedin.com/in/harpreet-kaur108"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Objective
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am self motivated IT enthusiast,with comptia A+ certification I have learnt all the fundamentals of the IT and how to troubleshoot common hardware and software issues.
 
 # Skills
 
