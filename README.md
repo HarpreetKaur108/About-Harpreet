@@ -17,11 +17,6 @@ I am self motivated IT enthusiast,with comptia A+ certification I have learnt al
 | Networking Fundamentals                       | <a href="https://github.com/preet801/TPOT-LAB.git">T-Pot Lab</a>|
 
 
-## Tools
-
-### Cisco Packet Tracer
-
-
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
