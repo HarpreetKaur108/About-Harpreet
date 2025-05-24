@@ -19,7 +19,7 @@ I am self motivated IT enthusiast,with comptia A+ certification I have learnt al
 
 ## Tools
 
-### Network
+### Cisco Packet Tracer
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
